@@ -1,12 +1,1 @@
-{
-  "name": "ambushrp-website",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "npx tailwindcss -i ./styles.css -o ./public/styles.css --minify"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.0",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0"
-  }
-}
+
